@@ -1,1 +1,1 @@
-# ![Deep Learning](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpytorch.org%2F&psig=AOvVaw3Gp8dCIvQK0t_36EQgFfLj&ust=1601444453154000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKjSrtHTjewCFQAAAAAdAAAAABAD)
+# ![Deep Learning](https://github.com/mainak9830/DeepLearning/blob/master/Introduction-to-TorchScript.png)
